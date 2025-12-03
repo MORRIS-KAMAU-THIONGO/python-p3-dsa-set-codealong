@@ -1,0 +1,6 @@
+- [x] Implement __init__(self, items=None): Initialize self.dictionary = {}, if items provided, add each to dictionary.
+- [x] Implement add(self, item): Add item to dictionary.
+- [x] Implement delete(self, item): Remove item from dictionary if present.
+- [x] Implement has(self, item): Return True if item in dictionary.
+- [x] Implement size(self): Return len(self.dictionary).
+- [x] Run pytest to verify tests pass.
